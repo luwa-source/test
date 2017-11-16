@@ -4,3 +4,5 @@ I am testing git;
 //Git is free software.
 
 I modified the file called test.txt.
+
+modify 1;
