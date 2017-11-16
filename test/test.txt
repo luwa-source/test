@@ -6,3 +6,4 @@ I am testing git;
 I modified the file called test.txt.
 
 modify 1;
+modify 2;
